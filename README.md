@@ -3,4 +3,4 @@
 descarga videos de youtube con una GUI usando pytube y tkinter
 
 # Dependencias
-Require pytube ` pip install pytube `
+Requiere pytube ` pip install pytube `
